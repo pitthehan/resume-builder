@@ -1,1 +1,0 @@
-Git commands: git commit -a -m "Second commit"
